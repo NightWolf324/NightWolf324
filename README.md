@@ -16,10 +16,10 @@
   - Node JS
 </p>
 <p align='center'>
-🔭 I’m currently working on Earth
+🔭 I’m currently working on Earth 😎
 </p>
 <p align='center'>
-   ⚡ Fun fact: I really like She 
+   ⚡ Fun fact: I really like She 😉
  </p>
    
  ------
