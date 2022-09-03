@@ -16,7 +16,9 @@
 </p>
 <p align='center'>
   - Node JS
+<p align='center'>
   - HTML
+<p align='center'>
   - CSS
 </p>
 <p align='center'>
