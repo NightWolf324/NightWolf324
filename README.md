@@ -15,17 +15,21 @@
 - 🌱 I’m currently learning
 </p>
 <p align='center'>
-  - Node JS
+  - JS
 <p align='center'>
   - HTML
 <p align='center'>
   - CSS
+<p align='center'>
+  - PYTHON
+<p align='center'>
+  - PHP
 </p>
 <p align='center'>
 🔭 I’m currently working on Earth 😎
 </p>
 <p align='center'>
-   ⚡ Fun fact: I really like She 😉
+   ⚡ Fun fact: ****** 😉
  </p>
    
  ------
