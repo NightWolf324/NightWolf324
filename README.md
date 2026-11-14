@@ -7,7 +7,6 @@
     
 <p align='center'>
   <a href="https://wa.me/"><img height="30" src="https://telegra.ph/file/a60d8d81f3b6bddae32ed.png"></a>
-  <a href="https://instagram.com/nightwolf.idn"><img height="30" src="https://telegra.ph/file/c71ff19ff0dae8b219347.png"></a>
 </p>
 </br>
   
